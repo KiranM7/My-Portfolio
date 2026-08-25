@@ -382,7 +382,7 @@ textarea {
 
     height: 260px;
 
-    background: #00e5a0;
+    background: gray;
 
     opacity: 0.13;
 
@@ -406,7 +406,7 @@ textarea {
 
     border: 1px solid #272c35;
 
-    border-radius: 22px;
+    border-radius: 12px;
 
     background: rgba(15,19,27,0.85);
 
@@ -440,9 +440,9 @@ textarea {
 
 .profile-picture {
 
-    width: 135px;
+    width: 130px;
 
-    height: 135px;
+    height: 150px;
 
     margin: 0 auto 25px;
 
